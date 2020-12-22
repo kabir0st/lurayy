@@ -1,2 +1,1 @@
-## Hy
-#### Gonna have to make time to work on this   ;P 
+Working on this thing right here to make to kinda cool
