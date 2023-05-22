@@ -1,5 +1,5 @@
 # 💫 About Me:
-I suck but I try to improve. :)
+Currently learning full stack with nextjs
 
 [Portfolio](https://kabir.afterfive.tech/)
 # 💻 Main Stack:
